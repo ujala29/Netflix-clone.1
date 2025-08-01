@@ -36,6 +36,11 @@ Netflix-clone/
 │   ├── middleware/
 │   └── index.js
 
+
+
+
+
+
 ## Watch the video here:
 ```bash
 https://youtu.be/QnrrcACHy4Q
