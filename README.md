@@ -36,9 +36,10 @@ Netflix-clone/
 │   ├── middleware/
 │   └── index.js
 
-## 📽️ Demo
 
+## 📽️ Demo 🎬  
 [![Watch the demo](https://img.youtube.com/vi/QnrrcACHy4Q/hqdefault.jpg)](https://youtu.be/QnrrcACHy4Q)
+
 
 
 
