@@ -36,7 +36,9 @@ Netflix-clone/
 │   ├── middleware/
 │   └── index.js
 
-Watch the video here: https://youtu.be/QnrrcACHy4Q
+## Watch the video here:
+```bash
+https://youtu.be/QnrrcACHy4Q
 
 
 
