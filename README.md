@@ -39,4 +39,8 @@ Netflix-clone/
 ## 📽️ Demo
 
 🎬 [Watch Demo on Google Drive][(https://drive.google.com/file/d/your_file_id/view](https://drive.google.com/file/d/1bN6eiqdVBHJMq-4nsFuBv51_IQhrzgL6/view?usp=drivesdk))
+## 🎬 Watch Demo
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1bN6eiqdVBHJMq-4nsFuBv51_IQhrzgL6/view?usp=drivesdk)
+
 
