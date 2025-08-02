@@ -10,8 +10,8 @@ export const generateCookies = (userId, res) => {
   res.cookie("jwt-netflix", token, {
     maxAge: 15 * 24 * 60 * 60 * 1000, // 15 days
     httpOnly: true,
-    sameSite: 'Strict',
-    secure: process.env.NODE_ENV === 'production' // Secure cookie in production
+    sameSite: 'None',
+    secure: true' // Secure cookie in production
   });
   
   // return token;
