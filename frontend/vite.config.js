@@ -7,7 +7,8 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'https://netflix-clone-1-z2lt.onrender.com',
+        // target: 'https://netflix-clone-1-z2lt.onrender.com',
+          target: 'http://localhost:8000',
         
       },
     },
