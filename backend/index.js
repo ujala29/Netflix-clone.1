@@ -20,7 +20,10 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 // Middlewares
-app.use(cors());
+app.use(cors({
+  origin: 'https://netflix-clone-1-1.onrender.com', // your frontend URL
+  credentials: true, // allow cookies if you're using them
+}));
 app.use(express.json());
 
 
